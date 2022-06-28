@@ -1,3 +1,3 @@
-# mvcmd-website
+# JoenTheWizards Web
 
-Official website for mVCMD and other information
+Just a general website
