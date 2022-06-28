@@ -1,3 +1,3 @@
-# JoenTheWizards Web
+# mVCMD project
 
-Just a general website
+A general site about the mVCMD project.
